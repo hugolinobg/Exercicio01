@@ -14,7 +14,7 @@ Stage 04 - Introdução à programação, lógica e algoritmos em Javascript
 
 </aside>
 
-Bora praticar e rever tudo o que foi ensinado na aula? **💜**<br>
+Bora praticar e rever tudo o que foi ensinado na aula? **💜**<br><br>
 Nesse desafio, você irá solicitar ao usuário que ele insira **dois números** e, a partir daí, calcular:
 
 - A soma dos dois números;
